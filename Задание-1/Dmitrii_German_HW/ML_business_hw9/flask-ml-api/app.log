@@ -1,0 +1,174 @@
+[2020-May-11 18:22:13] request from 127.0.0.1: {'ID': 1, 'LicAge': 468, 'RecordBeg': '2004-01-01', 'RecordEnd': '', 'VehAge': '', 'Gender': 'Male', 'MariStat': 'Other', 'SocioCateg': 'CSP50', 'VehUsage': 'Private', 'DrivAge': 67, 'HasKmLimit': 0, 'BonusMalus': 56, 'OutUseNb': 0, 'RiskArea': 0}
+[2020-May-11 18:22:45] predicted for 31.902865 msec: {'ID': 1, 'value_Poisson': 0.27747471503677823, 'value_Gamma': 422.0202971266197, 'value_BurningCost': 117.09996168494528}
+
+[2020-May-11 18:29:27] 127.0.0.1 GET http /favicon.ico? 5xx INTERNAL SERVER ERROR
+Traceback (most recent call last):
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1926, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1908, in raise_routing_exception
+    raise request.routing_exception
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\ctx.py", line 350, in match_request
+    result = self.url_adapter.match(return_rule=True)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\werkzeug\routing.py", line 1945, in match
+    raise NotFound()
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+[2020-May-11 18:36:18] 127.0.0.1 GET http /favicon.ico? 5xx INTERNAL SERVER ERROR
+Traceback (most recent call last):
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1926, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1908, in raise_routing_exception
+    raise request.routing_exception
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\ctx.py", line 350, in match_request
+    result = self.url_adapter.match(return_rule=True)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\werkzeug\routing.py", line 1945, in match
+    raise NotFound()
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+[2020-May-11 18:36:49] 127.0.0.1 GET http /favicon.ico? 5xx INTERNAL SERVER ERROR
+Traceback (most recent call last):
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1926, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1908, in raise_routing_exception
+    raise request.routing_exception
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\ctx.py", line 350, in match_request
+    result = self.url_adapter.match(return_rule=True)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\werkzeug\routing.py", line 1945, in match
+    raise NotFound()
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+[2020-May-11 18:59:19] 127.0.0.1 GET http /favicon.ico? 5xx INTERNAL SERVER ERROR
+Traceback (most recent call last):
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1926, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1908, in raise_routing_exception
+    raise request.routing_exception
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\ctx.py", line 350, in match_request
+    result = self.url_adapter.match(return_rule=True)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\werkzeug\routing.py", line 1945, in match
+    raise NotFound()
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+[2020-May-12 09:13:27] 127.0.0.1 GET http /favicon.ico? 5xx INTERNAL SERVER ERROR
+Traceback (most recent call last):
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1926, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1908, in raise_routing_exception
+    raise request.routing_exception
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\ctx.py", line 350, in match_request
+    result = self.url_adapter.match(return_rule=True)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\werkzeug\routing.py", line 1945, in match
+    raise NotFound()
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+[2020-May-12 09:34:50] 127.0.0.1 POST http /? 5xx INTERNAL SERVER ERROR
+Traceback (most recent call last):
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1926, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1908, in raise_routing_exception
+    raise request.routing_exception
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\ctx.py", line 350, in match_request
+    result = self.url_adapter.match(return_rule=True)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\werkzeug\routing.py", line 1940, in match
+    raise MethodNotAllowed(valid_methods=list(have_match_for))
+werkzeug.exceptions.MethodNotAllowed: 405 Method Not Allowed: The method is not allowed for the requested URL.
+
+[2020-May-12 09:41:28] 127.0.0.1 POST http /? 5xx INTERNAL SERVER ERROR
+Traceback (most recent call last):
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1926, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1908, in raise_routing_exception
+    raise request.routing_exception
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\ctx.py", line 350, in match_request
+    result = self.url_adapter.match(return_rule=True)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\werkzeug\routing.py", line 1940, in match
+    raise MethodNotAllowed(valid_methods=list(have_match_for))
+werkzeug.exceptions.MethodNotAllowed: 405 Method Not Allowed: The method is not allowed for the requested URL.
+
+[2020-May-12 09:51:24] 127.0.0.1 POST http /? 5xx INTERNAL SERVER ERROR
+Traceback (most recent call last):
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1926, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1908, in raise_routing_exception
+    raise request.routing_exception
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\ctx.py", line 350, in match_request
+    result = self.url_adapter.match(return_rule=True)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\werkzeug\routing.py", line 1940, in match
+    raise MethodNotAllowed(valid_methods=list(have_match_for))
+werkzeug.exceptions.MethodNotAllowed: 405 Method Not Allowed: The method is not allowed for the requested URL.
+
+[2020-May-12 09:52:50] 127.0.0.1 GET http /favicon.ico? 5xx INTERNAL SERVER ERROR
+Traceback (most recent call last):
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1926, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1908, in raise_routing_exception
+    raise request.routing_exception
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\ctx.py", line 350, in match_request
+    result = self.url_adapter.match(return_rule=True)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\werkzeug\routing.py", line 1945, in match
+    raise NotFound()
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+[2020-May-12 09:55:09] 127.0.0.1 POST http /? 5xx INTERNAL SERVER ERROR
+Traceback (most recent call last):
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1926, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1908, in raise_routing_exception
+    raise request.routing_exception
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\ctx.py", line 350, in match_request
+    result = self.url_adapter.match(return_rule=True)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\werkzeug\routing.py", line 1940, in match
+    raise MethodNotAllowed(valid_methods=list(have_match_for))
+werkzeug.exceptions.MethodNotAllowed: 405 Method Not Allowed: The method is not allowed for the requested URL.
+
+[2020-May-12 10:21:28] request from 127.0.0.1: {'ID': 1, 'LicAge': 468, 'RecordBeg': '2004-01-01', 'RecordEnd': '', 'VehAge': '', 'Gender': 'Male', 'MariStat': 'Other', 'SocioCateg': 'CSP50', 'VehUsage': 'Private', 'DrivAge': 67, 'HasKmLimit': 0, 'BonusMalus': 56, 'OutUseNb': 0, 'RiskArea': 0}
+[2020-May-12 10:21:42] request from 127.0.0.1: {'ID': 1, 'LicAge': 468, 'RecordBeg': '2004-01-01', 'RecordEnd': '', 'VehAge': '', 'Gender': 'Male', 'MariStat': 'Other', 'SocioCateg': 'CSP50', 'VehUsage': 'Private', 'DrivAge': 67, 'HasKmLimit': 0, 'BonusMalus': 56, 'OutUseNb': 0, 'RiskArea': 0}
+[2020-May-12 10:21:52] 127.0.0.1 POST http /predict? 5xx INTERNAL SERVER ERROR
+Traceback (most recent call last):
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\app.py", line 41, in predict
+    hf = process_input(json_input)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\process_data.py", line 128, in process_input
+    hf = return_NewH2o_Frame()
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\process_data.py", line 88, in return_NewH2o_Frame
+    column_names=columns)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\h2o\frame.py", line 109, in __init__
+    column_names, column_types, na_strings, skipped_columns)
+  File "C:\Users\fini1\PycharmProjects\ML_business_hw9\venv\lib\site-packages\h2o\frame.py", line 151, in _upload_python_object
+    os.remove(tmp_path)  # delete the tmp file
+PermissionError: [WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом: 'C:\\Users\\fini1\\AppData\\Local\\Temp\\tmpzbi1ayl7.csv'
+
+[2020-May-12 10:22:01] predicted for 32.965758 msec: {'ID': 1, 'value_Poisson': 0.27747471503677823, 'value_Gamma': 422.0202971266197, 'value_BurningCost': 117.09996168494528}
+
+[2020-May-12 10:29:17] request from 127.0.0.1: {'ID': '34', 'LicAge': 18.0, 'RecordBeg': '2004-01-01', 'RecordEnd': '', 'VehAge': 10.0, 'Gender': 'Male', 'MariStat': 'Alone', 'SocioCateg': 'CSP50', 'VehUsage': 'Private', 'DrivAge': 40.0, 'HasKmLimit': 0, 'BonusMalus': 56.0, 'OutUseNb': 0, 'RiskArea': 0}
+[2020-May-12 10:29:46] predicted for 28.58438 msec: {'ID': '34', 'value_Poisson': 0.1984285935630081, 'value_Gamma': 1175.8776065347295, 'value_BurningCost': 233.32773966692258}
+
+[2020-May-12 10:30:40] request from 127.0.0.1: {'ID': '22', 'LicAge': 20.0, 'RecordBeg': '2004-01-01', 'RecordEnd': '', 'VehAge': 9.0, 'Gender': 'Male', 'MariStat': 'Alone', 'SocioCateg': 'CSP50', 'VehUsage': 'Private', 'DrivAge': 40.0, 'HasKmLimit': 0, 'BonusMalus': 56.0, 'OutUseNb': 0, 'RiskArea': 0}
+[2020-May-12 10:31:11] predicted for 30.652596 msec: {'ID': '22', 'value_Poisson': 0.19850557942761246, 'value_Gamma': 1175.0284957407844, 'value_BurningCost': 233.24971239098025}
+
+[2020-May-12 14:24:18] request from 127.0.0.1: {'ID': '34', 'LicAge': 11.0, 'RecordBeg': '2004-01-01', 'RecordEnd': '', 'VehAge': 9.0, 'Gender': 'Male', 'MariStat': 'Alone', 'SocioCateg': 'CSP50', 'VehUsage': 'Private', 'DrivAge': 40.0, 'HasKmLimit': 0, 'BonusMalus': 0.05, 'OutUseNb': 0, 'RiskArea': 0}
+[2020-May-12 14:24:51] predicted for 33.330455 msec: {'ID': '34', 'value_Poisson': 0.09620912167471554, 'value_Gamma': 1452.692151621146, 'value_BurningCost': 139.76223597122316}
+
